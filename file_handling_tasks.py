@@ -1,7 +1,3 @@
-# file_handling_tasks.py
-
-# This file includes placeholders for file handling tasks.
-# Students should complete each function according to the instructions.
 
 def task1_create_file():
     # TODO: Create a new text file and write "Hello, world!" to it.
@@ -100,20 +96,3 @@ def task10_json_file():
         print(read_data)
     pass
 
-
-# ------------------------------
-# Function Calls for Testing
-# ------------------------------
-
-
-#    task1_create_file()
- #   task2_read_file()
- #   task3_append_file()
- #   task4_count_lines()
- #   task5_find_word()
- #   task6_copy_file()
- #   task7_replace_word()
- #   task2_read_file()       
-#  task9_write_csv()
- #   task8_read_csv()
- #   task10_json_file()
